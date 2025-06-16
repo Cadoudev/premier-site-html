@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bonjour, c'est le site de Cadou</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+    <h1 style="color:black;">Bonjour, c'est le site de Cadou</h1>
+
+    <p style="color:black;">
+        Aujourd'hui, je fais ce site web pour apprendre le HTML. Je suis débutant.
+    </p>
+
+    <p style="color:red;">
+        J'essaye d'apprendre les bases, mais c'est assez compliqué.
+    </p>
+<video width="640" height="360" controls>
+  <source src="vD:\Téléchargement/Cadou_BY_CORTIX.mp4" type="video/mp4">
+</video>
+
+
+</body>
+</html>
