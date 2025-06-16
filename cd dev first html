@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Bonjour, c'est le site de Cadou</title>
+    <style>
+        body {
+            background-color: #f9f9f9;
+            font-family: Arial, sans-serif;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            color: #000;
+        }
+        p {
+            color: #000;
+        }
+        .important {
+            color: red;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Bonjour, c'est le site de Cadou</h1>
+
+    <p>Aujourd'hui, je fais ce site web pour apprendre le HTML. Je suis débutant.</p>
+
+    <p class="important">J'essaye d'apprendre les bases, je viens de commencer a coder en html et C++.</p>
+
+    <img src="https://www.udacity.com/blog/wp-content/uploads/2020/06/HTML_Blog-scaled.jpeg" alt="Image en ligne">
+
+</body>
+</html>
